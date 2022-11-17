@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "rescript": "^10.0.1"
+  },
+  "scripts": {
+    "res:build": "rescript",
+    "res:start": "rescript build -w"
+  }
+}
